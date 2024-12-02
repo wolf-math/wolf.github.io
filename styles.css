@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h1 {
+  font-family: Arial;
+  color: green;
+  font-size: 150px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Lobster Two", sans-serif;
+  color: red;
+  font-size: 75px;
+}
+
+p {
+  background-color: black;
+  color: rgb(128, 219, 128);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+
+img {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 5px dashed blueviolet;
+  border-radius: 50px;
+}
